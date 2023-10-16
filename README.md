@@ -1,10 +1,5 @@
-### Eae, bro? Perfil do Diego aqui
-
-<div>
-<a href="https://github.com/diegosa1687">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/?username=diegosa1687&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosa1687&langs_count=7&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-</div>
+### Oilá!!!!
+### Sou desenvolvedor web Full-Stack especializado em Laravel :D
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
